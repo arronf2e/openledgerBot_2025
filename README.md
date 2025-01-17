@@ -3,7 +3,7 @@
 ![banner](image.png)
 
 
-- Website [https://openledger.xyz](https://testnet.openledger.xyz/?referral_code=ccex4vipg4)
+- Website [https://openledger.xyz](https://testnet.openledger.xyz/?referral_code=ccex4vipg4)](https://testnet.openledger.xyz/?referral_code=cu4xwcftfe)
 - Twitter [@OpenledgerHQ](https://x.com/OpenledgerHQ)
 
 
@@ -21,7 +21,7 @@
 - **npm**: Ensure you have npm installed.
 
 - **Wallets from open-ledger account**: how to get ???
-- **Go To dashboard** [https://openledger.xyz](https://testnet.openledger.xyz/?referral_code=ccex4vipg4) and copy your wallet, look at image below:
+- **Go To dashboard** [https://openledger.xyz](https://testnet.openledger.xyz/?referral_code=ccex4vipg4)](https://testnet.openledger.xyz/?referral_code=cu4xwcftfe) and copy your wallet, look at image below:
 
    ![wallet](image-1.png)
 
